@@ -1,7 +1,4 @@
 # hola-mundo
-primer repositorio
+primer repositori
 
-
-
-
-hola, todo esta re loco
+hola loco
