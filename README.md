@@ -1,4 +1,4 @@
 # hola-mundo
-primer repositori
+primer repositorio
 
 hola loco
