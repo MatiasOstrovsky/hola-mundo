@@ -1,5 +1,5 @@
 //EMS importing
-import {sum} from './learningFirstSteps/sum.mjs'
+import {sum} from './sum.mjs'
 import os from 'os'
 
 //Variables
