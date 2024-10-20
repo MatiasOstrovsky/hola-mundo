@@ -1,6 +1,6 @@
 //EMS importing
 import {sum} from './sum.mjs'
-import os from 'os'
+import os from 'node:os'
 
 //Variables
 
